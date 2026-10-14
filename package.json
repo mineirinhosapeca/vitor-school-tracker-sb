@@ -1,0 +1,9 @@
+{
+  "name": "school-tracker-2026-sb",
+  "version": "1.0.0",
+  "description": "Sistema de gestão escolar com Supabase e Cloudflare/Vercel",
+  "main": "index.html",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
