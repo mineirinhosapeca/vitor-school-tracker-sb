@@ -1,0 +1,11 @@
+# ---UM OLHAR NO HORIZONTE---
+
+×º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º×
+
+1. **EM QUE ÁREAS DA MINHA VIDA QUERO CRESCER NO PRÓXIMO ANO?**
+2. **QUE TIPO DE PESSOA QUERO ME TORNAR?**
+3. **O QUE QUERO QUE AS PESSOAS PENSEM DE MIM QUANDO ME VEREM?**
+
+×º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º××º°”˜”°º×
+
+>** FALTAM DO DIA 30/09/2026 ATÉ O DIA DA APRESENTAÇÃO: 32 DIAS, INCLUINDO O DIA DO EVENTO**
