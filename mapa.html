@@ -7,7 +7,7 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
    
     <!-- CLIENTE SDK SUPABASE -->
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script&gt;
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>;
 
     <style>
         * {
@@ -27,7 +27,7 @@
             padding: 20px;
         }
         .header-container {
-            display: flex;
+            display: flex;&gt
             align-items: center;
             justify-content: space-between;
             width: 100%;
@@ -76,7 +76,7 @@
             height: 100%;
             pointer-events: none;
         }
-        .aluno-marker {
+        .aluno-marker {&gt
             position: absolute;
             width: 14px;
             height: 14px;
@@ -188,7 +188,7 @@
 
             const hoje = new Date().toISOString().split('T')[0];
             const contagemPorLocal = {};
-            const turmasProcessadasAulaVaga = new Set();
+            const turmasProcessadasAulaVaga = new Set();&gt&gt
 
             movimentacoes.forEach(mov => {
                 const dataMov = mov.data_hora_saida ? mov.data_hora_saida.split('T')[0] : hoje;
