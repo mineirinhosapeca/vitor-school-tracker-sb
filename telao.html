@@ -304,13 +304,18 @@
        
         if (confirm("Deseja ATIVAR o Protocolo de Abandono em toda a escola?")) {
             try {
-                const { error } = await supabaseClient
-                    .from('estado_sistema')
-                    .update({ modo: "EMERGENCIA" })
-                    .eq('id', 1);
+                const { data, error } = await supabaseClient
+    .from('estado_sistema')
+    .update({ modo: "EMERGENCIA" })
+    .eq('id', 1)
+    .select();
 
-                if (error) throw error;
-                window.location.href = "telao_abandono.html";
+if (error) throw error;
+if (!data || data.length === 0) {
+    throw new Error("Registro id=1 não encontrado ou bloqueado pelo RLS do Supabase.");
+}
+window.location.href = "telao_abandono.html";
+
             } catch (error) {
                 alert("Erro ao ativar emergência: " + error.message);
             }
